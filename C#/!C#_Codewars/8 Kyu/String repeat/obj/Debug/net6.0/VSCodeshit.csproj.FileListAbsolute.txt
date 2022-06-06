@@ -1,0 +1,45 @@
+/home/lars/VSCodeshit/bin/Debug/net6.0/VSCodeshit
+/home/lars/VSCodeshit/bin/Debug/net6.0/VSCodeshit.deps.json
+/home/lars/VSCodeshit/bin/Debug/net6.0/VSCodeshit.runtimeconfig.json
+/home/lars/VSCodeshit/bin/Debug/net6.0/VSCodeshit.dll
+/home/lars/VSCodeshit/bin/Debug/net6.0/ref/VSCodeshit.dll
+/home/lars/VSCodeshit/bin/Debug/net6.0/VSCodeshit.pdb
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.csproj.AssemblyReference.cache
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.GeneratedMSBuildEditorConfig.editorconfig
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.AssemblyInfoInputs.cache
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.AssemblyInfo.cs
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.csproj.CoreCompileInputs.cache
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.dll
+/home/lars/VSCodeshit/obj/Debug/net6.0/ref/VSCodeshit.dll
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.pdb
+/home/lars/VSCodeshit/obj/Debug/net6.0/VSCodeshit.genruntimeconfig.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.csproj.AssemblyReference.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.GeneratedMSBuildEditorConfig.editorconfig
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.AssemblyInfoInputs.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.AssemblyInfo.cs
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.csproj.CoreCompileInputs.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/ref/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.pdb
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/bin/Debug/net6.0/VSCodeshit
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/bin/Debug/net6.0/VSCodeshit.deps.json
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/bin/Debug/net6.0/VSCodeshit.runtimeconfig.json
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/bin/Debug/net6.0/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/bin/Debug/net6.0/ref/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/bin/Debug/net6.0/VSCodeshit.pdb
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Are you playing banjo/Are You Playing Banjo/obj/Debug/net6.0/VSCodeshit.genruntimeconfig.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/bin/Debug/net6.0/VSCodeshit
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/bin/Debug/net6.0/VSCodeshit.deps.json
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/bin/Debug/net6.0/VSCodeshit.runtimeconfig.json
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/bin/Debug/net6.0/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/bin/Debug/net6.0/ref/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/bin/Debug/net6.0/VSCodeshit.pdb
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.csproj.AssemblyReference.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.GeneratedMSBuildEditorConfig.editorconfig
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.AssemblyInfoInputs.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.AssemblyInfo.cs
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.csproj.CoreCompileInputs.cache
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/ref/VSCodeshit.dll
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.pdb
+/home/lars/Documents/Codingstuff/C#/!C#_Codewars/8 Kyu/Returning Strings/obj/Debug/net6.0/VSCodeshit.genruntimeconfig.cache
